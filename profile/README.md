@@ -9,5 +9,5 @@ Plataforma de comercio omnicanal cloud-native diseñada para aprovisionamiento a
 * **`landing-ecommerce`**: Portal de marketing y captación de leads.
 
 ### 👥 Equipo & Responsabilidades
-* **Juan Leonidas Espeche ([@juanson-espeche](https://github.com/juanson-espeche))**: Tech Lead, Arquitectura, 100% Platform (`vertex-platform`), Backend Core & Cloud Infra.
-* **Lihue Leiva ([@lihueleiva](https://github.com/lihueleiva))**: Frontend Storefront (`ecommerce-vertex`).
+* **Juan Leonidas Espeche ([@juanson-espeche](https://github.com/juanson-espeche))**
+* **Lihue Leiva ([@lihueleiva](https://github.com/lihueleiva))**
